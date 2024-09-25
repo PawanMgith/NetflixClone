@@ -1,1 +1,1 @@
-# NetflixClone
+Developed a Netflix-like video streaming platform by using HTML and CSS. Key features include a fully responsive user interface, content browsing sections, and a clean layout design inspired by Netflix's UI. Demonstrated expertise in front-end development with a focus on user experience and mobile compatibility.
